@@ -4,7 +4,7 @@
 
 plotting 3-dimension data
 
-![UI example](https://raw.githubusercontent.com/Tee0125/graph3d/blob/master/graph3d.png]
+![UI example](https://raw.githubusercontent.com/Tee0125/graph3d/blob/master/graph3d.png)
 
 ## Usage
 
